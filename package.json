@@ -1,0 +1,27 @@
+{
+  "name": "poc-signature",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "adm-zip": "^0.5.16",
+    "base64-img": "^1.0.4",
+    "docx": "^9.1.0",
+    "docximager": "^0.0.4",
+    "docxtemplater": "^3.55.6",
+    "docxtemplater-image-module": "^3.1.0",
+    "file-saver": "^2.0.5",
+    "fs": "^0.0.1-security",
+    "html-docx-js": "^0.3.1",
+    "mammoth": "^1.8.0",
+    "pizzip": "^3.1.7",
+    "xml2js": "^0.6.2"
+  }
+}
